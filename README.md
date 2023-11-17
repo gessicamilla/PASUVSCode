@@ -2,7 +2,7 @@
 
 ## Veremos abaixo as ferramentas utilizadas
 <p align="center">
-<img src=logoubuntu.png width=70 height=70><img src=logovirtualbox.png width=70 height=70><img src=vscodelogo.png width=70 height=70><img src=gitlogo.png width=70 height=70><img src=cockpitlogo.png width=70 height=70><img src=linguagemc.png width=70 height=70><img src=sshlogo.png width=70 height=70><img src=logogcc.png width=70 height=70>
+<img src=logoubuntu.png width=70 height=70><img src=logovirtualbox.png width=70 height=70><img src=vscodelogo.png width=70 height=70> <img src=gitlogo.png width=70 height=70><img src=cockpitlogo.png width=70 height=70><img src=linguagemc.png width=70 height=70><img src=sshlogo.png width=70 height=70><img src=logogcc.png width=70 height=70>
 </p>
 Foram usadas as seguintes ferramentas para o desenvolvimento da atividade:
 
